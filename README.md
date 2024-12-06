@@ -61,3 +61,8 @@ Install dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Future Enhancements
+- Add More Commands: Expand Nova's functionality.
+- Integrate Other APIs: Enable interaction with APIs like OpenWeather or Google Maps.
+- Improve Error Handling: Refine command recognition and error responses.
