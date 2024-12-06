@@ -1,4 +1,5 @@
-Nova: AI-Powered Personal Assistant
+# Nova: AI-Powered Personal Assistant
+
 Nova is an intelligent voice assistant powered by Google Generative AI (Gemini 1.5) and other powerful Python libraries. Nova can recognize speech, respond with natural language, interact with web browsers, open local applications, and provide contextual assistance.
 
 Features
