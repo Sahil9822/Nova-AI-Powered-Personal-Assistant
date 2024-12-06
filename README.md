@@ -18,7 +18,8 @@ Nova is an intelligent voice assistant powered by Google Generative AI (Gemini 1
 ## Installation
 1. Clone the repository:
    ```bash
-   python log_analysis.py
+   git clone https://github.com/Sahil9822/Nova-AI-Powered-Personal-Assistant.git
+   cd Nova-AI-Powered-Personal-Assistant
    ```
 3. Create and activate the virtual environment:
 4. Install the required dependencies:
