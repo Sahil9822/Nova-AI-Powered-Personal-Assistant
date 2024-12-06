@@ -47,7 +47,19 @@ Nova is an intelligent voice assistant powered by Google Generative AI (Gemini 1
    ```bash
    python aitest.py
    ```
-   
+
+## Folder Structure
+```bash
+nova/
+├── main.py            # Main script to run Nova
+├── aitest.py          # Script to test AI functionalities
+├── config.py          # Configuration file for API keys
+├── Genai/             # Folder where AI responses are saved
+├── requirements.txt   # List of required Python libraries
+├── .venv/             # Virtual environment
+└── README.md          # Project documentation
+```
+
 ## Requirements
 Here’s a list of libraries used:
 - speech_recognition: For speech-to-text functionality.
