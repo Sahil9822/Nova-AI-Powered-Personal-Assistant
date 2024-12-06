@@ -30,3 +30,6 @@ Nova is an intelligent voice assistant powered by Google Generative AI (Gemini 1
    ```bash
    pip install -r requirements.txt
    ```
+4. Set up your Google Generative AI API key:
+   - **Open config.py.**
+   - **Replace "" with your API key from Google Generative AI.**
