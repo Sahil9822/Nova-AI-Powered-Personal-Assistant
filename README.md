@@ -56,7 +56,7 @@ Here’s a list of libraries used:
 - webbrowser: To open URLs.
 - os: To interact with the operating system.
 - datetime: To fetch the current time.
-- 
+
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
