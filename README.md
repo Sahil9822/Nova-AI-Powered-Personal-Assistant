@@ -11,6 +11,6 @@ Nova is an intelligent voice assistant powered by Google Generative AI (Gemini 1
 - **Streamlined Chat History: Reset or continue chat seamlessly.**
 
 ## Prerequisites
-Python 3.9 or higher
-Virtual Environment (.venv) activated
-API key for Google Generative AI (Gemini)
+1. Python 3.9 or higher
+2. Virtual Environment (.venv) activated
+3. API key for Google Generative AI (Gemini)
