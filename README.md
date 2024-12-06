@@ -33,3 +33,31 @@ Nova is an intelligent voice assistant powered by Google Generative AI (Gemini 1
 4. Set up your Google Generative AI API key:
    - Open config.py.
    - Replace "" with your API key from Google Generative AI.
+
+## Usage
+1. Run the main program:
+   ```bash
+   python main.py
+   ```
+2. Speak commands like:
+   - "Open YouTube"
+   - "What is the time?"
+   - "Nova quit" to exit the program.
+3. For testing AI interactions, run aitest.py:
+   ```bash
+   python aitest.py
+   ```
+   
+## Requirements
+Here’s a list of libraries used:
+- speech_recognition: For speech-to-text functionality.
+- pyttsx3: For text-to-speech synthesis.
+- google-generativeai: To interact with Google Generative AI (Gemini).
+- webbrowser: To open URLs.
+- os: To interact with the operating system.
+- datetime: To fetch the current time.
+- 
+Install dependencies using:
+```bash
+pip install -r requirements.txt
+```
